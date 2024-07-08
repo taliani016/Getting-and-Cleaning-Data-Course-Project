@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 #This repository contains the project files for the Getting and Cleaning Data course project.
 
-#Files
+#Files\\
 #run_analysis.R: The R script that performs the data cleaning and analysis.
 #tidy_data.txt: The resulting tidy data set.
 #README.md: This file.
